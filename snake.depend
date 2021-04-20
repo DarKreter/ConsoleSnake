@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1540988066 source:c:\users\daniel\daniel\snake\main.cpp
+	"biblioteka.h"
+
+1540987594 c:\users\daniel\daniel\snake\biblioteka.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<vector>
+
+1540987465 source:c:\users\daniel\daniel\snake\biblioteka.cpp
+	"biblioteka.h"
+
+1541364938 source:d:\daniel\programowanie\snake\biblioteka.cpp
+	"biblioteka.h"
+
+1541530262 d:\daniel\programowanie\snake\biblioteka.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<vector>
+	<fstream>
+
+1541951122 source:d:\daniel\programowanie\snake\main.cpp
+	"headers/SnakeFunctions.h"
+
+1541881675 d:\daniel\programowanie\snake\snakefunctions.h
+	"SNAKE.h"
+	"SnakeEnum.h"
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<vector>
+	<fstream>
+	<iomanip>
+
+1541679728 d:\daniel\programowanie\snake\snake.h
+	<vector>
+
+1541958556 source:d:\daniel\programowanie\snake\snake.cpp
+	"headers/SnakeFunctions.h"
+
+1542023321 source:d:\daniel\programowanie\snake\snakefunctions.cpp
+	"headers/SnakeFunctions.h"
+
+1541679728 d:\daniel\programowanie\snake\snakeenum.h
+
+1541679726 source:c:\users\daniel\desktop\snake\main.cpp
+	"SnakeFunctions.h"
+
+1541679728 c:\users\daniel\desktop\snake\snakefunctions.h
+	"SNAKE.h"
+	"SnakeEnum.h"
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<vector>
+	<fstream>
+	<iomanip>
+
+1541679728 c:\users\daniel\desktop\snake\snake.h
+	<vector>
+
+1541679728 c:\users\daniel\desktop\snake\snakeenum.h
+
+1541679728 source:c:\users\daniel\desktop\snake\snake.cpp
+	"SnakeFunctions.h"
+
+1541788314 source:c:\users\daniel\desktop\snake\snakefunctions.cpp
+	"SnakeFunctions.h"
+
+1542022547 d:\daniel\programowanie\snake\headers\snakefunctions.h
+	"SNAKE.h"
+	"SnakeEnum.h"
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<vector>
+	<fstream>
+	<iomanip>
+
+1541958551 d:\daniel\programowanie\snake\headers\snake.h
+	<vector>
+
+1541966351 d:\daniel\programowanie\snake\headers\snakeenum.h
+
+1541954722 source:a:\programowanie\jakies wieksze programy\snake\main.cpp
+	"headers/SnakeFunctions.h"
+
+1542026147 a:\programowanie\jakies wieksze programy\snake\headers\snakefunctions.h
+	"SNAKE.h"
+	"SnakeEnum.h"
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<vector>
+	<fstream>
+	<iomanip>
+
+1541962151 a:\programowanie\jakies wieksze programy\snake\headers\snake.h
+	<vector>
+
+1541969951 a:\programowanie\jakies wieksze programy\snake\headers\snakeenum.h
+
+1541962156 source:a:\programowanie\jakies wieksze programy\snake\snake.cpp
+	"headers/SnakeFunctions.h"
+
+1542027265 source:a:\programowanie\jakies wieksze programy\snake\snakefunctions.cpp
+	"headers/SnakeFunctions.h"
+
